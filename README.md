@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohammadshariful
-- 👀 I’m interested in html,css,bootstrap, tailwind,javascript 
+- 👀 I’m interested in html,css,bootstrap, tailwind,react js
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
