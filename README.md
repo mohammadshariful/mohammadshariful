@@ -2,11 +2,11 @@
 
 <h3 align="center"> Hello Fellow < Developers/ > <img src = "https://raw.githubusercontent.com/mohammadshariful/mohammadshariful/main/wave.gif" width ="25">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Mohammad+Faisal;Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Mohammad+Shariful;Front+End+Developer)](https://git.io/typing-svg)
 
 </h3>
 
-<h3 align="left">About Us</h3>
+<h3 align="left">About Me</h3>
 <p align="left"> Creating sophisticated, user-friendly and optimized websites is really my passion. I have gained experience in coding websites with a variety of frameworks as well as libraries. I have good knowledge of JavaScript, React JS, MongoDB, NodeJS, Firebase, HTML, CSS, Bootstrap and TailwindCSS. </p>
 
 <img align="right" src="https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/animation_500_kxa883sd.gif" alt="jobairshakib" height="300" width="300" />
@@ -17,13 +17,13 @@
 
 - 👯 I’m looking to collaborate on _Github_
 
-- 👨‍💻 All of my projects are available at [Project](https://webmohammadfaisal.netlify.app/)
+- 👨‍💻 All of my projects are available at [Project](https://portfolio-shariful.web.app/)
 
 - 💬 Ask me about _MERN_
 
-- 📫 How to reach me *web.mohammad.faisal@gmail.com*
+- 📫 How to reach me _ mohammadsharifulislam64@gmail.com _
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15yE9Y1a6ZXT1iq6EXtLPdCicPXrNzTQD/view)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1O6juJf_8M9-6N_hHHSESAoGwVdqZTDyhuf5BNL0M4pE/edit)
 
 - ⚡ Fun fact _I am funny_
 
@@ -68,10 +68,10 @@
 <!-- Contact Section -->
 <h1 align="center">Connect with me <img src='https://raw.githubusercontent.com/jobairshakib/jobairshakib/main/handshake.gif' width="60"> </h1>
 <div align="center">
-<a href="https://linkedin.com/in/mohammadshariful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadshariful" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohammad-faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-faisal" height="30" width="40" /></a>
-<a href="https://fb.com/web.mohammad.faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web.mohammad.faisal" height="30" width="40" /></a>
-<a href="https://instagram.com/faisal85412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal85412" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-shariful-islam-91571423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadshariful" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18384743/mohammad-shariful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-faisal" height="30" width="40" /></a>
+<a href="https://web.facebook.com/mohammadsharifulislam64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web.mohammad.faisal" height="30" width="40" /></a>
+<a href="https://instagram.com/mohammadshariful64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal85412" height="30" width="40" /></a>
 <br/>  
 <br/>
 
