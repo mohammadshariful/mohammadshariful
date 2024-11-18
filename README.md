@@ -13,13 +13,9 @@
 
 - 🔭 I’m currently working on _Developer Build_
 
-- 🌱 I’m currently learning _JavaScript, ExpressJs, TrypeScript, React Native_
-
 - 👯 I’m looking to collaborate on _Github_
 
 - 👨‍💻 All of my projects are available at [Project](https://portfolio-shariful.web.app/)
-
-- 💬 Ask me about _MERN_
 
 - 📫 How to reach me _ mohammadsharifulislam64@gmail.com _
 
